@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alena-novakova/static/css/main.7df1e57b.css",
+    "main.js": "/alena-novakova/static/js/main.7152eb50.js",
+    "static/js/787.0bcb9e3b.chunk.js": "/alena-novakova/static/js/787.0bcb9e3b.chunk.js",
+    "static/media/pexels-pixabay-38554.jpg": "/alena-novakova/static/media/pexels-pixabay-38554.02f8c535dd070dee7de5.jpg",
+    "static/media/pexels-aleksandr-nadyojin.png": "/alena-novakova/static/media/pexels-aleksandr-nadyojin.55bdac5c1b60affd3026.png",
+    "index.html": "/alena-novakova/index.html",
+    "main.7df1e57b.css.map": "/alena-novakova/static/css/main.7df1e57b.css.map",
+    "main.7152eb50.js.map": "/alena-novakova/static/js/main.7152eb50.js.map",
+    "787.0bcb9e3b.chunk.js.map": "/alena-novakova/static/js/787.0bcb9e3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df1e57b.css",
+    "static/js/main.7152eb50.js"
+  ]
+}
